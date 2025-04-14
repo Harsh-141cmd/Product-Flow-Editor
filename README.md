@@ -6,7 +6,7 @@
 
 ## 🚀 Features
 
-- 🔄 **Product Fetching**: Automatically fetches a list of products from [DummyJSON API](https://dummyjson.com/products) on app load.
+- 🔄 **Product Fetching**: Automatically fetches a list of products from [DummyJSON API] on app load.
 - ➕ **Add Product Nodes**: Add products to a canvas as individual draggable nodes showing name and price.
 - 🔗 **Connect Nodes**: Drag from one node to another to create animated directional connections (edges).
 - ✏️ **Add Empty Editable Node**: Double-click to edit the text inside an empty node added to the canvas.
@@ -51,26 +51,26 @@ npm install reactflow
 npm install react-scripts
 ```
 
+This will install the following dependencies:
 
+- **react**: Core React library for building the user interface.
+- **react-dom**: Helps React interact with the DOM (Document Object Model).
+- **reactflow**: Used for rendering and managing flow diagrams, nodes, and edges.
+- **react-scripts**: Scripts and configuration used by Create React App for bundling and starting the app.
 
+### 3. Run the Project
 
+```bash
+npm start
+```
 
+## 📦 Why These Dependencies?
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Dependency       | Reason                                                                 |
+| ---------------- | ---------------------------------------------------------------------- |
+| **react**        | Framework for building component-based UI                              |
+| **react-dom**    | Enables rendering React components into the DOM                        |
+| **reactflow**    | Handles all flow rendering, node dragging, edge creation, and canvas interactions |
+| **react-scripts**| Bundler and development environment provided by Create React App       |
+| **fetch API**    | Built-in JS feature to make API calls for fetching product data        |
 
