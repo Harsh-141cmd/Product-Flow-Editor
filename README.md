@@ -1,4 +1,4 @@
-# 🧩 Product Flow Editor
+# Product Flow Editor
 
 **Product Flow Editor** is a React-based web application that lets users visually map products as draggable, connectable nodes. It fetches data from a public product API and provides an intuitive flow editor where you can create, connect, edit, and delete product or empty nodes.
 
