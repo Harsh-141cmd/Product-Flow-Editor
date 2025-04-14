@@ -34,3 +34,43 @@
 ```bash
 git clone https://github.com/your-username/product-flow-editor.git
 cd product-flow-editor
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install react
+```
+```bash
+npm install react-dom
+```
+```bash
+npm install reactflow
+```
+```bash
+npm install react-scripts
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
